@@ -19,6 +19,8 @@ It is a mini-game using Python and its package of simplegui. The rules are as be
 
 </br>
 
+### Game link: https://py2.codeskulptor.org/#user49_KFOU0V1flusm3uj.py
+
 ![image](https://user-images.githubusercontent.com/58776067/182601011-8fe5cef2-9e87-4ce5-80c8-cd431eaf218f.png)
 
 
